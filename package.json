@@ -1,0 +1,20 @@
+{
+  "name": "your-hero",
+  "version": "1.0.0",
+  "description": "Configure  o seu herói diário no seu browser em poucos segundos, onde ele salvará você de evitar não beber água.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italosantana/your-hero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/italosantana/your-hero/issues"
+  },
+  "homepage": "https://github.com/italosantana/your-hero#readme"
+}
